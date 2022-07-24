@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "232734785971",
+    "project_id": "holybooks-b36c4",
+    "storage_bucket": "holybooks-b36c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232734785971:android:a24f2b84f93189ba144bc6",
+        "android_client_info": {
+          "package_name": "com.example.holybooks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232734785971-t5vc2kc1j4udfk1dd255r1pbllhv7ea5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpFfuE2CfACcKRbpE7QchOwDIWvQXByJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232734785971-t5vc2kc1j4udfk1dd255r1pbllhv7ea5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
