@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "232734785971",
+    "project_id": "holybooks-b36c4",
+    "storage_bucket": "holybooks-b36c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232734785971:android:9a6f7da5a72d7665144bc6",
+        "android_client_info": {
+          "package_name": "com.josephmp5.holybooks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232734785971-n4gl5auua594ilet1bc9guniqughpqot.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.holybooks",
+            "certificate_hash": "bbcf2ca4ee699b8ad01c17ee6d1e5a6eb6ee4518"
+          }
+        },
+        {
+          "client_id": "232734785971-t5vc2kc1j4udfk1dd255r1pbllhv7ea5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpFfuE2CfACcKRbpE7QchOwDIWvQXByJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232734785971-t5vc2kc1j4udfk1dd255r1pbllhv7ea5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "232734785971-lm2s21cig3o6mp0avsi5a7eg2h0kflmd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.holybooks"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
